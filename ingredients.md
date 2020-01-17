@@ -9,3 +9,4 @@ Ingredients:
 
 - a pinch of salt
 - pepper to taste
+- a dash of olive oil
