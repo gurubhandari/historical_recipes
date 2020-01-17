@@ -6,3 +6,5 @@ Ingredients:
 - a bunch of chives
 - a good, old skillt
 - an wooden spoon
+- oven
+- salt
