@@ -8,3 +8,4 @@ Ingredients:
 - an wooden spoon
 - oven
 - salt
+- enough onion
